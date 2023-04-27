@@ -1,0 +1,36 @@
+export const defaultPreviewData = [
+  [
+    { x: 10, y: 0, w: 3, h: 3, i: "card1", moved: false },
+    { x: 3, y: 0, w: 7, h: 3, i: "card2", moved: false },
+    { x: 0, y: 0, w: 3, h: 3, i: "card3", moved: false },
+    { x: 0, y: 3, w: 3, h: 3, i: "card7", moved: false },
+    { x: 3, y: 3, w: 7, h: 7, i: "cardMap", moved: false },
+    { x: 0, y: 6, w: 3, h: 4, i: "card4", moved: false },
+    { x: 10, y: 3, w: 3, h: 3, i: "card5", moved: false },
+    { x: 10, y: 6, w: 3, h: 4, i: "card6", moved: false },
+  ],
+  [
+    { x: 10, y: 0, w: 3, h: 10, i: "card9", moved: false },
+    { x: 0, y: 0, w: 3, h: 6, i: "card8", moved: false },
+    { x: 3, y: 0, w: 7, h: 10, i: "cardMap", moved: false },
+    { x: 0, y: 6, w: 3, h: 4, i: "card4", moved: false },
+  ],
+  [
+    { x: 0, y: 0, w: 7, h: 6, i: "cardMap", moved: false },
+    { x: 7, y: 0, w: 3, h: 3, i: "card3", moved: false },
+    { x: 7, y: 3, w: 3, h: 3, i: "card7", moved: false },
+    // { x: 3, y: 0, w: 3, h: 6, i: "cardMap", moved: false },
+    { x: 0, y: 6, w: 3, h: 4, i: "card4", moved: false },
+    { x: 10, y: 0, w: 3, h: 10, i: "card5", moved: false },
+    { x: 3, y: 6, w: 7, h: 4, i: "card6", moved: false },
+  ],
+  [
+    // { x: 6, y: 0, w: 7, h: 3, i: "card1", moved: false },
+    { x: 0, y: 0, w: 3, h: 3, i: "card7", moved: false },
+    { x: 3, y: 0, w: 3, h: 3, i: "card3", moved: false },
+    { x: 6, y: 0, w: 3, h: 3, i: "card5", moved: false },
+    { x: 9, y: 0, w: 4, h: 3, i: "card4", moved: false },
+    { x: 0, y: 3, w: 7, h: 7, i: "cardMap", moved: false },
+    { x: 7, y: 0, w: 6, h: 7, i: "card6", moved: false },
+  ],
+];
